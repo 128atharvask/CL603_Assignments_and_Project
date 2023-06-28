@@ -13,3 +13,6 @@ Each script generates relevant plots, and returns converged solution and other p
 Contains:
 1. Interactive python script
 2. Presentation of the project including theory, literature survey, variants and applications
+
+## Note to students taking this course
+Please do not directly use this code in your assignments/ project since it would account as plagiarism.
